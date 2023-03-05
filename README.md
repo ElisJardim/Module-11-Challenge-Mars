@@ -104,4 +104,4 @@ Open the Jupyter Notebook in the starter code folder named part_1_mars_news.ipyn
 ![Daily minimum temperature](/Images/daily_min_temp.png)
 
 
-6. Export the DataFrame to a CSV file.
+6. Export the DataFrame to a CSV file: [mars_table.csv](mars_table.csv)
